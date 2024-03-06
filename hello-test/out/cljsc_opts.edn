@@ -1,0 +1,1 @@
+{:output-to "out/tests.js", :output-dir "out", :main "hello-test.runner", :optimizations :none, :watch-fn #object[user$eval378$fn__387 0x1174a305 "user$eval378$fn__387@1174a305"], :verbose true}

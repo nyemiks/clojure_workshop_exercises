@@ -1,0 +1,1 @@
+{"version":3,"file":"\/C:\/Users\/nyemi\/Documents\/clojure\/workshop_activity\/hello-test\/out\/clojure\/test\/check\/impl.js","sources":["impl.cljc"],"lineCount":8,"mappings":";AASA;;AAEA,kDAAA,lDAAMA;AAAN,AAEW,OAAU,KAAAC","names":["clojure.test.check.impl\/get-current-time-millis","js\/Date"]}

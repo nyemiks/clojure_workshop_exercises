@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Thu Oct 26 17:18:15 WAT 2023:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-018b-6cc7-7e3f-00000ae649e8 
+on database directory C:\Users\nyemi\Documents\clojure\workshop_activity\myfitness\derby-local with class loader sun.misc.Launcher$AppClassLoader@29453f44 
+Loaded from file:/C:/Users/nyemi/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_231-b11
+user.dir=C:\Users\nyemi\Documents\clojure\workshop_activity\myfitness
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''

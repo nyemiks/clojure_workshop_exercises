@@ -1,0 +1,10 @@
+/* some style */
+
+.btn {
+padding: 7px 20px;
+cursor: pointer;
+margin-left: 10px;
+margin-bottom: 10px;
+border: 1px solid gray;
+}
+
